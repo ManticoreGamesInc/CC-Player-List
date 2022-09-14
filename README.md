@@ -1,31 +1,35 @@
 <div align="center">
 
-# CC-Template-Repository
+# Player List
 
-A ... component that does x.
+[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Player-List/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Player-List/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Player-List?style=plastic)
 
-[![Build Status](https://github.com/Core-Team-META/CC-Template-Repository/workflows/CI/badge.svg)](https://github.com/Core-Team-META/CC-Template-Repository/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/CC-Template-Repository?style=plastic)
-
-![TitleCard](/Screenshots/REPLACE_ME.png)
+![Preview](/Screenshots/Main.png)
 
 </div>
 
+## Finding the Component
+
+This component can be found under the **CoreAcademy** account on Community Content.
+
 ## Overview
 
-Description
+The Player List component will show who is on the game to all players. Knowing who is in-game can improve the experience for players and can make the game feel more alive and active
 
-## Setup
+The player list will display the player’s avatar in the list, and supports hiding and showing it using the bindings manager.
 
-Setup
+## How to use
 
-## Credits
+A binding set has been included with the template so players can hide/show the player list.
 
-- List
-- of
-- people
+The root of the template contains 3 custom properties.
 
-## How to use this Template
+- **VisibleByDefault**
+  This is the collection of NFTs you want to pull from.
 
-- Replace every mention of `CC-Template-Repository` with your new repository name.
-- Replace every mention of `REPLACE_ME` with the correct values.
+- **CanHide**
+  If enabled, and the action has been set, then players can hide and show the player list.
+
+- **Action**
+  The action to check. Make sure this is in your bindings manager, or use the Player List binding in your Hierarchy.
