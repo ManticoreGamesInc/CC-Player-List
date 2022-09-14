@@ -1,15 +1,15 @@
 --[[
-  _____  _                         _      _     _   
- |  __ \| |                       | |    (_)   | |  
- | |__) | | __ _ _   _  ___ _ __  | |     _ ___| |_ 
+  _____  _                         _      _     _
+ |  __ \| |                       | |    (_)   | |
+ | |__) | | __ _ _   _  ___ _ __  | |     _ ___| |_
  |  ___/| |/ _` | | | |/ _ \ '__| | |    | / __| __|
- | |    | | (_| | |_| |  __/ |    | |____| \__ \ |_ 
+ | |    | | (_| | |_| |  __/ |    | |____| \__ \ |_
  |_|    |_|\__,_|\__, |\___|_|    |______|_|___/\__|
-                  __/ |                             
-                 |___/  
+                  __/ |
+                 |___/
 ----------------------------------------------------
 
-The Player List component will show who is on the game to all players. Knowing who is in-game
+The Player List component will show who is in-game to all players. Knowing who is in-game
 can improve the experience for players and can make the game feel more alive and active.
 
 The player list will display the player's avatar in the list, and supports hiding and showing
