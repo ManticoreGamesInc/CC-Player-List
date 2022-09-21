@@ -26,10 +26,13 @@ A binding set has been included with the template so players can hide/show the p
 The root of the template contains 3 custom properties.
 
 - **VisibleByDefault**
+
   This is the collection of NFTs you want to pull from.
 
 - **CanHide**
+
   If enabled, and the action has been set, then players can hide and show the player list.
 
 - **Action**
+
   The action to check. Make sure this is in your bindings manager, or use the Player List binding in your Hierarchy.
