@@ -71,7 +71,7 @@ go ahead.
    are no errors. This is a mandatory requirement for your PR to get accepted.
 
 3. **Pull Request**: After making sure everything passes, commit your changes,
-   push your branch to GitHub and send a PR to `Bootcamp-Player-List:main`.
+   push your branch to GitHub and send a PR to `ManticoreGamesInc/Bootcamp-Player-List:main`.
    If we suggest changes, make the required updates, rebase your branch and push the
    changes to your GitHub repository, which will automatically update your PR.
 
