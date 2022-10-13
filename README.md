@@ -2,8 +2,8 @@
 
 # Player List
 
-[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Player-List/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Player-List/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Player-List?style=plastic)
+[![Build Status](https://github.com/ManticoreGamesInc/CC-Player-List/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Player-List/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Player-List?style=plastic)
 
 ![Preview](/Screenshots/Main.png)
 
