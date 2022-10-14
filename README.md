@@ -15,7 +15,7 @@ This component can be found under the **CoreAcademy** account on Community Conte
 
 ## Overview
 
-The Player List component will show who is in-game to all players. Knowing who is in-game can improve the experience for players and can make the game feel more alive and active
+The Player List component will show who is in-game to all players. Knowing who is in-game can improve the experience for players and can make the game feel more alive and active.
 
 The player list will display the player’s avatar in the list, and supports hiding and showing it using the bindings manager.
 
