@@ -2,7 +2,7 @@ Assets {
   Id: 14687978135386793734
   Name: "Player List"
   PlatformAssetType: 29
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Player List"
   BindingSetAsset {
     Bindings {

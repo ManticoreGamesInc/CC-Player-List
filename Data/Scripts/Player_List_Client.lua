@@ -4,10 +4,13 @@ local LIST = script:GetCustomProperty("List"):WaitForObject()
 local PLAYER_ENTRY = script:GetCustomProperty("PlayerEntry")
 local WRAPPER = script:GetCustomProperty("Wrapper"):WaitForObject()
 local HEADER = script:GetCustomProperty("Header"):WaitForObject()
+local HEADER_TEXT = script:GetCustomProperty("HeaderText"):WaitForObject()
 
 local VISIBLE_BY_DEFAULT = ROOT:GetCustomProperty("VisibleByDefault")
 local CAN_HIDE = ROOT:GetCustomProperty("CanHide")
 local ACTION = ROOT:GetCustomProperty("Action")
+
+HEADER_TEXT.text = "[" .. Input.GetActionInputLabel(ACTION) .. "] " .. HEADER_TEXT.text
 
 if(not VISIBLE_BY_DEFAULT) then
 	WRAPPER.visibility = Visibility.FORCE_OFF
